@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z8UlUCeMxP3OndljlNULiZI2C4wX0YJ2sSA3xOipekY=",
+  "Source": "ticket-management-api",
+  "BasePath": "_content/ticket-management-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
